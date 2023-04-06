@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff3d4edf-00bb-425f-88bb-bdd61f6c830e" name="Changes" comment="MOving to main branch, &#10;First commit">
+    <list default="true" id="ff3d4edf-00bb-425f-88bb-bdd61f6c830e" name="Changes" comment="Second Day: Loops and Linear Search">
+      <change afterPath="$PROJECT_DIR$/BinarySearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FirstFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/FirstFile.py" afterDir="false" />
     </list>
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680632926903</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Second Day: Loops and Linear Search">
+      <created>1680714826741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680714826741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +114,7 @@
     <MESSAGE value="Revert &quot;First Commit&quot;&#10;&#10;This reverts commit f8ec7f82702835f57a1295eb8fcec7a89b86df5e." />
     <MESSAGE value="Moving to Main Branch&#10;First Commit" />
     <MESSAGE value="MOving to main branch, &#10;First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="MOving to main branch, &#10;First commit" />
+    <MESSAGE value="Second Day: Loops and Linear Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Day: Loops and Linear Search" />
   </component>
 </project>

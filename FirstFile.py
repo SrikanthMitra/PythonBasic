@@ -7,7 +7,7 @@ for i in range(0,10):
 while i < 10:
     print("Greater than 10")
 
-"""
+
 #Linear search
 arr = []
 for i in range(0,25,2):
@@ -22,3 +22,7 @@ for i in arr:
         print("Match Found")
     else:
         print("Match not found")
+"""
+
+
+
